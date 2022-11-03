@@ -1,7 +1,8 @@
 # 2048_AI_Player
 Playing 2048 Game using Alpha/Beta Algorithm!
 
-[Uploading ElegantSaneKingbird-size_restricted.gif…]()
+![Uploading ElegantSaneKingbird-size_restricted.gif]()
+
 
 The main of the game is to slide tiles on a grid, to combine tiles of the same values and thus create a tile bearing the number 2048.
 However, the player can continue to play after this objective has been reached to make the best possible score.
